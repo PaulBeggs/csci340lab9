@@ -365,3 +365,4 @@ C:\Users\paulb\VSCode_Files_Main_Directory\CSCI340\entity_framework\csci340lab9\
 C:\Users\paulb\VSCode_Files_Main_Directory\CSCI340\entity_framework\csci340lab9\HendrixCollege\obj\Debug\net10.0\HendrixCollege.pdb
 C:\Users\paulb\VSCode_Files_Main_Directory\CSCI340\entity_framework\csci340lab9\HendrixCollege\obj\Debug\net10.0\HendrixCollege.genruntimeconfig.cache
 C:\Users\paulb\VSCode_Files_Main_Directory\CSCI340\entity_framework\csci340lab9\HendrixCollege\obj\Debug\net10.0\ref\HendrixCollege.dll
+c:\Users\paulb\VSCode_Files_Main_Directory\CSCI340\entity_framework\csci340lab9\HendrixCollege\obj\Debug\net10.0\HendrixCollege.sourcelink.json
