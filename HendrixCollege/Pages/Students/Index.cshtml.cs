@@ -7,15 +7,19 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using HendrixCollege.Data;
 using HendrixCollege.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace HendrixCollege.Students
 {
     public class IndexModel : PageModel
     {
         private readonly SchoolContext _context;
-        public IndexModel(SchoolContext context)
+        private readonly IConfiguration Configuration;
+
+        public IndexModel(SchoolContext context, IConfiguration configuration)
         {
             _context = context;
+            Configuration = configuration;
         }
 
         public string NameSort { get; set; }
@@ -40,7 +44,7 @@ namespace HendrixCollege.Students
 
             if (!String.IsNullOrEmpty(searchString))
             {
-                studentsIQ = studentsIQ.Where(s => s.LastName.Contains(searchString)
+                studentsIQ = studentsIQ.Where(s => s.LastName.ToUpper().Contains(searchString.ToUpper())
                                     || s.FirstMidName.Contains(searchString));
             }
             switch (sortOrder)
