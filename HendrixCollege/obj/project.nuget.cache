@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ho8CvEfgcE=",
+  "dgSpecHash": "8pgcltkFgE4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+  "projectFilePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulb\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\paulb\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

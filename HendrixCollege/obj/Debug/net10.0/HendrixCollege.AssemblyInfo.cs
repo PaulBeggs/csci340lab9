@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HendrixCollege")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+561b85a50325d847e89695901124894d660ec748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cd2cecbb370bbc0b9953cf17a2a676956236a18")]
 [assembly: System.Reflection.AssemblyProductAttribute("HendrixCollege")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HendrixCollege")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
