@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj": {}
+    "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj": {
+    "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+        "projectUniqueName": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
         "projectName": "HendrixCollege",
-        "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+        "projectPath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
         "packagesPath": "C:\\Users\\paulb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\obj\\",
+        "outputPath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paulb\\AppData\\Roaming\\NuGet\\NuGet.Config"
