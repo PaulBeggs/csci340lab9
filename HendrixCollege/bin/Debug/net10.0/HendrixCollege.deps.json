@@ -10,8 +10,8 @@
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "10.0.3",
           "Microsoft.EntityFrameworkCore.Design": "10.0.3",
-          "Microsoft.EntityFrameworkCore.Sqlite": "10.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.3",
+          "Microsoft.EntityFrameworkCore.Sqlite": "10.0.3",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "10.0.2"
         },
         "runtime": {

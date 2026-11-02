@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ho8CvEfgcE=",
+  "dgSpecHash": "FKh56AK471U=",
   "success": true,
-  "projectFilePath": "c:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\entity_framework\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+  "projectFilePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulb\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\paulb\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -137,5 +137,66 @@
     "C:\\Users\\paulb\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\paulb\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.4 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
+      "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Security.Cryptography.Pkcs' 9.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-846f-f764-76mx",
+      "projectPath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\paulb\\VSCode_Files_Main_Directory\\CSCI340\\csci340lab9\\HendrixCollege\\HendrixCollege.csproj",
+      "libraryId": "System.Security.Cryptography.Pkcs",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
